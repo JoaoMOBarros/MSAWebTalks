@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/MSAWebTalks/static/css/main.29e3f8cf.chunk.css",
-    "main.js": "/MSAWebTalks/static/js/main.6352cf95.chunk.js",
-    "main.js.map": "/MSAWebTalks/static/js/main.6352cf95.chunk.js.map",
+    "main.css": "/MSAWebTalks/static/css/main.d7efc7c6.chunk.css",
+    "main.js": "/MSAWebTalks/static/js/main.72a92daf.chunk.js",
+    "main.js.map": "/MSAWebTalks/static/js/main.72a92daf.chunk.js.map",
     "runtime-main.js": "/MSAWebTalks/static/js/runtime-main.ab97efc6.js",
     "runtime-main.js.map": "/MSAWebTalks/static/js/runtime-main.ab97efc6.js.map",
     "static/js/2.fe60f41d.chunk.js": "/MSAWebTalks/static/js/2.fe60f41d.chunk.js",
     "static/js/2.fe60f41d.chunk.js.map": "/MSAWebTalks/static/js/2.fe60f41d.chunk.js.map",
     "index.html": "/MSAWebTalks/index.html",
-    "precache-manifest.a24598c3f6632090e1ba537d3907e728.js": "/MSAWebTalks/precache-manifest.a24598c3f6632090e1ba537d3907e728.js",
+    "precache-manifest.d5911f2a281d8ba49bdfbb0320bf243d.js": "/MSAWebTalks/precache-manifest.d5911f2a281d8ba49bdfbb0320bf243d.js",
     "service-worker.js": "/MSAWebTalks/service-worker.js",
-    "static/css/main.29e3f8cf.chunk.css.map": "/MSAWebTalks/static/css/main.29e3f8cf.chunk.css.map",
+    "static/css/main.d7efc7c6.chunk.css.map": "/MSAWebTalks/static/css/main.d7efc7c6.chunk.css.map",
     "static/js/2.fe60f41d.chunk.js.LICENSE.txt": "/MSAWebTalks/static/js/2.fe60f41d.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/MSAWebTalks/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.ab97efc6.js",
     "static/js/2.fe60f41d.chunk.js",
-    "static/css/main.29e3f8cf.chunk.css",
-    "static/js/main.6352cf95.chunk.js"
+    "static/css/main.d7efc7c6.chunk.css",
+    "static/js/main.72a92daf.chunk.js"
   ]
 }

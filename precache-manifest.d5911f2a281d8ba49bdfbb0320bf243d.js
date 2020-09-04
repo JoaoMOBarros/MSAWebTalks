@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "83abe893d7148c8bf25fd61a7f40d23f",
+    "revision": "01a9f3c7c9aea68d2aa46724af723f6a",
     "url": "/MSAWebTalks/index.html"
   },
   {
-    "revision": "f33d71141c8546923cdb",
-    "url": "/MSAWebTalks/static/css/main.29e3f8cf.chunk.css"
+    "revision": "5cb33274c6eae4be88a6",
+    "url": "/MSAWebTalks/static/css/main.d7efc7c6.chunk.css"
   },
   {
     "revision": "25be7df7661985e8d4d8",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MSAWebTalks/static/js/2.fe60f41d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f33d71141c8546923cdb",
-    "url": "/MSAWebTalks/static/js/main.6352cf95.chunk.js"
+    "revision": "5cb33274c6eae4be88a6",
+    "url": "/MSAWebTalks/static/js/main.72a92daf.chunk.js"
   },
   {
     "revision": "524a1ed4676238778f41",

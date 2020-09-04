@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/MSAWebTalks/precache-manifest.a24598c3f6632090e1ba537d3907e728.js"
+  "/MSAWebTalks/precache-manifest.d5911f2a281d8ba49bdfbb0320bf243d.js"
 );
 
 self.addEventListener('message', (event) => {
